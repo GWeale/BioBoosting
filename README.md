@@ -36,5 +36,5 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/BioBoost.git
+   git clone https://github.com/CowCurry/BioBoost.git
    cd BioBoost
